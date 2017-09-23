@@ -1,0 +1,11 @@
+{
+  "name": "pixabay-scraper",
+  "version": "1.0.0",
+  "description": "Tool to scrape pixabay",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Paul Laureano",
+  "license": "MIT"
+}
